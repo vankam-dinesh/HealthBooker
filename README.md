@@ -3,7 +3,7 @@
 
 <div align="center">                                             
   <br>
-  <img src="https://img.shields.io/github/repo-size/Avinash905/HealthBooker?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/Avinash905/HealthBooker?style=for-the-badge" />                              
   <img src="https://img.shields.io/github/issues/Avinash905/HealthBooker?style=for-the-badge" />
     <img src="https://img.shields.io/github/issues-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
     <img src="https://img.shields.io/github/last-commit/Avinash905/HealthBooker?style=for-the-badge" />

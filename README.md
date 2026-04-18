@@ -1,7 +1,7 @@
 <div id="top">
 <h1 align="center">HealthBooker 🧑‍⚕️</h1>
 
-<div align="center">
+<div align="center">                                             
   <br>
   <img src="https://img.shields.io/github/repo-size/Avinash905/HealthBooker?style=for-the-badge" />
   <img src="https://img.shields.io/github/issues/Avinash905/HealthBooker?style=for-the-badge" />
